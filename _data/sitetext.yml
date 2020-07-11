@@ -1,8 +1,8 @@
 header:
     title: Welcome to 98 Union
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    button: Explore Units
+    buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
 services:
     title: "Advantages"
@@ -13,7 +13,7 @@ services:
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-map-marked-alt #find more at https://fontawesome.com/icons
       - title: "Walkable"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "We are across the street from Pike Place Market, Seattle Art Museum and Black Irish Pub. One block away from City Target, Seattle Aquarium and Showbox Theater."
         icon: fas fa-walking
       - title: "Concierge"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -34,30 +34,30 @@ timeline:
     section: timeline
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
+#        year: "1999"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "Near By Restaurants"
+#        year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "Near By Shopping"
+#        year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Near By Culture"
+#        year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Become <br>Part  of <br>Our Story!"
 
 about:
     title: "About Us"
