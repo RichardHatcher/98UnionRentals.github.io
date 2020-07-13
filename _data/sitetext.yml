@@ -10,10 +10,10 @@ services:
     section: services
     list:
       - title: "Downtown Seattle"
-        desc: "Official in the middle of everything! We are 3 blocks for the water front and 3 blocks from the light rail transit."
+        desc: "Placed in perfectly between Pike Place Market, live shows at the Showbox Theater and the Puget Sound waterfront."
         icon: fas fa-map-marked-alt #find more at https://fontawesome.com/icons
       - title: "Walkable"
-        desc: "Across the street from Pike Place Market, Seattle Art Museum and Black Irish Pub."
+        desc: "Just a few steps to pick up dinner at Pike Place Market, stroll through the Seattle Art Museum or get a pint at the Blarney Stone Pub."
         icon: fas fa-walking
       - title: "Concierge"
         desc: "Need a hand between 8:00 AM and 9:00 PM? Our concierges are happy to help out."
@@ -36,13 +36,13 @@ timeline:
       - title: "Location"
 #        year: "1999"
 
-        desc: "[98 Union St Seattle, WA 98101](https://en.wikipedia.org/wiki/Markdown)<br>Smack dab in the middle of downtown"
+        desc: "[98 Union St Seattle, WA 98101](https://goo.gl/maps/K8JMU3wYFWb6fdam8)<br>Walk/Run/Bike along the water front. Explore the Sculpture Park. Leave the car at home when you walk a couple blocks to City Target or Kress Grocery to pick up supplies. "
         image: assets/img/timeline/1.jpg
         alt:
         align: left
       - title: "Near By Restaurants"
 #        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "What kind of dinning experience do you crave? Coffee with a friend at Fonte Coffee Rosters or bottomless mimosas with the brunch crew at Four Seasons? We have plenty of options! [See for yourself](https://goo.gl/maps/YhogNjXZZohkEukq7)"
         image: assets/img/timeline/2.jpg
         alt:
         align: right
@@ -54,7 +54,7 @@ timeline:
         #align: #default is left
       - title: "Near By Culture"
 #        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Your description here, **Markdown** is fully supported." # Beneroyla, SAM, Sculpture Park,
         image: assets/img/timeline/4.jpg
         alt:
         align: right
@@ -65,64 +65,50 @@ about:
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+#clients:
+#    section: clients
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
 
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "The smiling faces that you see when arriving and leaving"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Kelly"
         role: "Building Manager"
         image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
       - name: "Michael"
         role: "Assistant Manager"
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Jo"
         role: "Concierge"
         image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
 contact:
     title: "Schedule Tour or Questions"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email or call 123456789"
     section: contact
 
 footer:
