@@ -1,5 +1,5 @@
 header:
-    title: Welcome to 98 Union
+    title: Welcome to 98 Union St Seattle
     text: It's Nice To Meet You
     button: Explore Units
     buttonlink: "#portfolio" # "#{section}" or "URL/page link"
@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "Downtown Seattle"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Official in the middle of everything! We are 3 blocks for the water front and 3 blocks from the light rail transit."
         icon: fas fa-map-marked-alt #find more at https://fontawesome.com/icons
       - title: "Walkable"
         desc: "We are across the street from Pike Place Market, Seattle Art Museum and Black Irish Pub. One block away from City Target, Seattle Aquarium and Showbox Theater."
         icon: fas fa-walking
       - title: "Concierge"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Need a hand between 8:00 AM and 9:00 PM? Our concierges are happy to help out"
         icon: fas fa-hands-helping
 
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
@@ -33,9 +33,10 @@ timeline:
     text: "Lorem ipsum timeline"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
+      - title: "Location"
 #        year: "1999"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+
+        desc: "[98 Union St Seattle, WA 98101](https://en.wikipedia.org/wiki/Markdown)<br>Smack dab in the middle of downtown"
         image: assets/img/timeline/1.jpg
         alt:
         align: left
