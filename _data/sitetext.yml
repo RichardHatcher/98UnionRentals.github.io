@@ -1,5 +1,5 @@
 header:
-    title: Welcome to 98 Union St Seattle
+    title: Welcome to 98 Union Seattle
     text: It's Nice To Meet You
     button: Explore Units
     buttonlink: "#portfolio" # "#{section}" or "URL/page link"
