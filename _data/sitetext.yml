@@ -13,10 +13,10 @@ services:
         desc: "Official in the middle of everything! We are 3 blocks for the water front and 3 blocks from the light rail transit."
         icon: fas fa-map-marked-alt #find more at https://fontawesome.com/icons
       - title: "Walkable"
-        desc: "We are across the street from Pike Place Market, Seattle Art Museum and Black Irish Pub. One block away from City Target, Seattle Aquarium and Showbox Theater."
+        desc: "Across the street from Pike Place Market, Seattle Art Museum and Black Irish Pub."
         icon: fas fa-walking
       - title: "Concierge"
-        desc: "Need a hand between 8:00 AM and 9:00 PM? Our concierges are happy to help out"
+        desc: "Need a hand between 8:00 AM and 9:00 PM? Our concierges are happy to help out."
         icon: fas fa-hands-helping
 
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
